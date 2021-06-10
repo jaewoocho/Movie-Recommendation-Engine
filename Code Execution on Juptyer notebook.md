@@ -1,0 +1,6 @@
+![machinepearson1](https://user-images.githubusercontent.com/25238652/121487200-d2346700-ca0c-11eb-9731-bc865a88d403.JPG)
+![machinepearson2](https://user-images.githubusercontent.com/25238652/121487718-525acc80-ca0d-11eb-8165-5c7225b5726f.JPG)
+![machinepearson3](https://user-images.githubusercontent.com/25238652/121487726-54bd2680-ca0d-11eb-95b8-86f2b77dca8f.JPG)
+![machinepearson4](https://user-images.githubusercontent.com/25238652/121487731-571f8080-ca0d-11eb-919c-1b3cedfb0ab4.JPG)
+![machinepearson5](https://user-images.githubusercontent.com/25238652/121487738-5850ad80-ca0d-11eb-8dde-fd0d17382bd6.JPG)
+![machinepearson final](https://user-images.githubusercontent.com/25238652/121487212-d3fe2a80-ca0c-11eb-8bfd-4b5aebda717e.JPG)
