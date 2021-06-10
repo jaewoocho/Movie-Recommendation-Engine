@@ -6,6 +6,6 @@
 
 Data set Kaggle: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
-Replica for Research(Original Reference):https://www.youtube.com/watch?v=mLwMe4KUZz8&t=8s
+Replica for Research(Original):https://www.youtube.com/watch?v=mLwMe4KUZz8&t=8s
 
 
