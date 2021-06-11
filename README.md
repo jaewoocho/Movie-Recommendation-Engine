@@ -8,7 +8,8 @@ Pearson Correlation : https://statistics.laerd.com/statistical-guides/pearson-co
 
 Data set Kaggle: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
-Replica for Research(Original Creator: :https://www.youtube.com/watch?v=mLwMe4KUZz8&t=8s - https://github.com/kairess/movie_recommendation_engine )
+Replica for Research -Original Creator:
+Taehee Brad Lee - https://www.youtube.com/watch?v=mLwMe4KUZz8&t=8s - https://github.com/kairess )
 
 ![machinepearson1](https://user-images.githubusercontent.com/25238652/121487200-d2346700-ca0c-11eb-9731-bc865a88d403.JPG)
 ![machinepearson final](https://user-images.githubusercontent.com/25238652/121487212-d3fe2a80-ca0c-11eb-8bfd-4b5aebda717e.JPG)
